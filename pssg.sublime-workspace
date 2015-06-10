@@ -1,0 +1,1507 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fil",
+				"files"
+			],
+			[
+				"pandoc",
+				"pandoc_build"
+			],
+			[
+				"OU",
+				"OUTFILES"
+			],
+			[
+				"OUTF",
+				"OUTFILE"
+			],
+			[
+				"OUT",
+				"OUTFILE"
+			],
+			[
+				"OUTFI",
+				"OUTFILES"
+			],
+			[
+				"Mo",
+				"MontagePose"
+			],
+			[
+				"Mon",
+				"UpdateMontagePose"
+			],
+			[
+				"Upd",
+				"UpdateMontagePose"
+			],
+			[
+				"Scz",
+				"Scan_zu_SK1"
+			],
+			[
+				"Sc",
+				"Scan_AP_SK"
+			],
+			[
+				"ScS",
+				"Scan_AP_in_SK"
+			],
+			[
+				"SK",
+				"SK_zu_TK1"
+			],
+			[
+				"S",
+				"Scan_zu_SK2"
+			],
+			[
+				"SC",
+				"Scan_zu_SK1"
+			],
+			[
+				"TK",
+				"TK_zu_WK2"
+			],
+			[
+				"Sen",
+				"Sensorpose"
+			],
+			[
+				"tes",
+				"test"
+			],
+			[
+				"te",
+				"test2"
+			],
+			[
+				"ifn",
+				"ifnd	ifndef (…)"
+			],
+			[
+				"scan",
+				"scandata2"
+			],
+			[
+				"clou",
+				"cloud_cleaned"
+			],
+			[
+				"Poin",
+				"PointT"
+			],
+			[
+				"PiC",
+				"PointCloudT"
+			],
+			[
+				"Noi",
+				"NOISE"
+			],
+			[
+				"cl",
+				"cloud_icp"
+			],
+			[
+				"cluo",
+				"cloud_in"
+			],
+			[
+				"def",
+				"def	#ifndef … #define … #endif"
+			],
+			[
+				"de",
+				"def	#ifndef … #define … #endif"
+			],
+			[
+				"clouic",
+				"cloud_icp"
+			],
+			[
+				"clo",
+				"cloud_in"
+			],
+			[
+				"nex",
+				"nextWaypoint"
+			],
+			[
+				"bre",
+				"bresenhamAlgorithm"
+			],
+			[
+				"D",
+				"DIAGONAL_SIZE"
+			],
+			[
+				"last",
+				"lastDistance"
+			],
+			[
+				"fea",
+				"featureToTrace"
+			],
+			[
+				"uint",
+				"uint32_t"
+			],
+			[
+				"uin",
+				"uint32_t"
+			],
+			[
+				"P",
+				"PATH"
+			],
+			[
+				"if",
+				"if	If Condition"
+			],
+			[
+				"Spe",
+				"SpeedyMap"
+			],
+			[
+				"del",
+				"delta_y"
+			],
+			[
+				"delt",
+				"delta_y"
+			],
+			[
+				"in",
+				"inc	#include \"…\""
+			],
+			[
+				"y",
+				"y_size"
+			],
+			[
+				"vec",
+				"vector2d"
+			],
+			[
+				"veco",
+				"vector_t"
+			],
+			[
+				"t",
+				"t"
+			],
+			[
+				"frac",
+				"fracture-cl"
+			],
+			[
+				"getA",
+				"getActiveBinaryArchitecture"
+			],
+			[
+				"bS",
+				"binspector"
+			],
+			[
+				"activeBina",
+				"activeBinary"
+			],
+			[
+				"m_",
+				"m_parent"
+			],
+			[
+				"Dis",
+				"Disassembler"
+			],
+			[
+				"hel",
+				"helpWidget"
+			],
+			[
+				"show",
+				"showCentralWidget"
+			],
+			[
+				"p",
+				"parent"
+			],
+			[
+				"code",
+				"codeWidget"
+			],
+			[
+				"bin",
+				"binary"
+			],
+			[
+				"dis",
+				"disassemble"
+			],
+			[
+				"bas",
+				"basicInfo"
+			],
+			[
+				"con",
+				"control"
+			],
+			[
+				"out",
+				"output"
+			],
+			[
+				"binspec",
+				"binspector"
+			],
+			[
+				"vi",
+				"view"
+			],
+			[
+				"QS",
+				"QStylePainter"
+			],
+			[
+				"dec",
+				"decompileIRButton"
+			],
+			[
+				"aL",
+				"addLayout"
+			],
+			[
+				"AL",
+				"addLayout"
+			],
+			[
+				"llv",
+				"llvm_ir"
+			],
+			[
+				"name",
+				"name	Namespace"
+			],
+			[
+				"setFo",
+				"setFormatFor"
+			],
+			[
+				"vis",
+				"visualizerDock"
+			],
+			[
+				"new",
+				"newDockWidget"
+			],
+			[
+				"wi",
+				"widgetsInDock"
+			],
+			[
+				"bi",
+				"binaryDock"
+			],
+			[
+				"nam",
+				"name	Namespace"
+			],
+			[
+				"bins",
+				"binspector"
+			],
+			[
+				"ex",
+				"exec"
+			],
+			[
+				"myF",
+				"myFileDialog"
+			],
+			[
+				"this",
+				"thisParent"
+			],
+			[
+				"setC",
+				"setCodeinSelection"
+			],
+			[
+				"doc",
+				"documentLayout"
+			],
+			[
+				"set",
+				"setupDocumentBrowser"
+			],
+			[
+				"res",
+				"resizeCodes"
+			],
+			[
+				"rem",
+				"removeItem"
+			],
+			[
+				"QState",
+				"QStateMaschine"
+			],
+			[
+				"docA",
+				"documentArea"
+			],
+			[
+				"aDL",
+				"activeDocumentLabel"
+			],
+			[
+				"DO",
+				"documentArea"
+			],
+			[
+				"cod",
+				"codeToRemove"
+			],
+			[
+				"getCo",
+				"getCode"
+			],
+			[
+				"find",
+				"findCodeInList"
+			],
+			[
+				"getCode",
+				"getCodeList"
+			],
+			[
+				"getC",
+				"getCodes"
+			],
+			[
+				"retur",
+				"return"
+			],
+			[
+				"addC",
+				"addNewCode"
+			],
+			[
+				"codeSe",
+				"codeSettings"
+			],
+			[
+				"codeSet",
+				"codeSetup"
+			],
+			[
+				"abort",
+				"abortSetup"
+			],
+			[
+				"clas",
+				"class_	class"
+			],
+			[
+				"cla",
+				"class_	class"
+			],
+			[
+				"acti",
+				"activeDocument"
+			],
+			[
+				"add",
+				"addWidget"
+			],
+			[
+				"main",
+				"mainWidget"
+			],
+			[
+				"cods",
+				"codeSettings"
+			],
+			[
+				"size",
+				"sizeOfWidget"
+			],
+			[
+				"a",
+				"activeDocumentLabel"
+			],
+			[
+				"ac",
+				"activeDocument"
+			],
+			[
+				"Crea",
+				"CreateWindowLayout"
+			],
+			[
+				"eas",
+				"easyQDA"
+			],
+			[
+				"Y",
+				"YELLOW"
+			],
+			[
+				"g",
+				"gz"
+			],
+			[
+				"pi",
+				"picosafe_rootfs"
+			],
+			[
+				"titl",
+				"title{text}	latex-document"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 279,
+				"line_ending": "Unix",
+				"name": "README.md"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/C++11/C++11.sublime-build",
+					""
+				],
+				[
+					"Packages/C++11/C++11.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/pandoc.sublime-build",
+					""
+				],
+				[
+					"Packages/User/cpp.sublime-package/qt.sublime-build",
+					""
+				],
+				[
+					"Packages/User/cpp.sublime-package/qt.sublime-build",
+					"Init"
+				],
+				[
+					"Packages/User/cpp.sublime-package/qt.sublime-build",
+					"Create plist"
+				],
+				[
+					"Packages/User/cpp.sublime-package/qt.sublime-build",
+					"Sign Application"
+				],
+				[
+					"Packages/User/cpp.sublime-package/qt.sublime-build",
+					"Pack Product"
+				],
+				[
+					"Packages/User/cpp.sublime-package/qt.sublime-build",
+					"Test Installation"
+				],
+				[
+					"Packages/User/cpp.sublime-package/qt.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Markdown Preview/Markdown.sublime-build",
+					""
+				],
+				[
+					"Packages/User/pandoc.sublime-build",
+					""
+				],
+				[
+					"Packages/User/cpp.sublime-package/qt.sublime-build",
+					""
+				],
+				[
+					"Packages/User/cpp.sublime-package/qt.sublime-build",
+					"Init"
+				],
+				[
+					"Packages/User/cpp.sublime-package/qt.sublime-build",
+					"Create plist"
+				],
+				[
+					"Packages/User/cpp.sublime-package/qt.sublime-build",
+					"Sign Application"
+				],
+				[
+					"Packages/User/cpp.sublime-package/qt.sublime-build",
+					"Pack Product"
+				],
+				[
+					"Packages/User/cpp.sublime-package/qt.sublime-build",
+					"Test Installation"
+				],
+				[
+					"Packages/User/cpp.sublime-package/qt.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/User/pandoc.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/cmake.sublime-package/CMake.sublime-build",
+					""
+				],
+				[
+					"Packages/User/cmake.sublime-package/CMake.sublime-build",
+					"Init"
+				],
+				[
+					"Packages/User/cmake.sublime-package/CMake.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/User/cmake.sublime-package/CMake.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/cpp.sublime-package/CMake.sublime-build",
+					""
+				],
+				[
+					"Packages/User/cpp.sublime-package/CMake.sublime-build",
+					"Init"
+				],
+				[
+					"Packages/User/cpp.sublime-package/CMake.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/User/cpp.sublime-package/CMake.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "git ini",
+		"selected_items":
+		[
+			[
+				"git ini",
+				"git: init"
+			],
+			[
+				"Build: ini",
+				"Build With: CMake - Init"
+			],
+			[
+				"Build: clean",
+				"Build With: CMake - Clean"
+			],
+			[
+				"dic",
+				"Dictionaries: Set Language"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"stat",
+				"git: status"
+			],
+			[
+				"push",
+				"git: push"
+			],
+			[
+				"gits",
+				"git: status"
+			],
+			[
+				"Build: clea",
+				"Build With: CMake - Clean"
+			],
+			[
+				"Build: cle",
+				"Build: Cancel"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"writing",
+				"Toggle Writing Style"
+			],
+			[
+				"di",
+				"Dictionaries: Set Language"
+			],
+			[
+				"com",
+				"git: commit"
+			],
+			[
+				"git",
+				"git: status"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"previw",
+				"Preview Graphviz Snippet"
+			],
+			[
+				"ipy",
+				"Open IPython Notebook"
+			],
+			[
+				"Build: lcea",
+				"Build With: CMake - Clean"
+			],
+			[
+				"citer",
+				"Citer: Show All"
+			],
+			[
+				"table",
+				"Table Editor: Enable for current syntax"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"updr",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"linter",
+				"SublimeLinter: Clear Caches"
+			],
+			[
+				"lin",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"lint",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"lint th",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"graph",
+				"Preview Graphviz Snippet"
+			],
+			[
+				"Build: init",
+				"Build With: CMake - Init"
+			],
+			[
+				"Build: in",
+				"Build With: CMake - Init"
+			],
+			[
+				"Build: cm",
+				"Build With: CMake - Init"
+			],
+			[
+				"makr",
+				"MarkdownEditing: Markdown Lint"
+			],
+			[
+				"aca",
+				"Set Syntax: AcademicMarkdown"
+			],
+			[
+				"s",
+				"Set Syntax: Makefile"
+			],
+			[
+				"cit",
+				"Citer: Search"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"gitsa",
+				"git: status"
+			],
+			[
+				"Build: cla",
+				"Build With: Make - Clean"
+			],
+			[
+				"Build: ca",
+				"Build With: Make - Clean"
+			],
+			[
+				"Build: cl",
+				"Build: Cancel"
+			],
+			[
+				"over",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"ctags",
+				"CTags: Rebuild Tags"
+			],
+			[
+				"theme",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"the",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"col",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"ssmak",
+				"Set Syntax: Makefile"
+			],
+			[
+				"upgra",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"upgrad",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"astyl",
+				"SublimeAStyleFormatter: Format Current File"
+			],
+			[
+				"Build: c",
+				"Build With: Make - Clean"
+			],
+			[
+				"pa",
+				"Pandoc"
+			],
+			[
+				"pan",
+				"Pandoc"
+			],
+			[
+				"pand",
+				"Pandoc"
+			],
+			[
+				"markd",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"make",
+				"Set Syntax: Makefile"
+			],
+			[
+				"mak",
+				"Set Syntax: Makefile"
+			],
+			[
+				"upg",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Build: cel",
+				"Build: Clean"
+			],
+			[
+				"ss",
+				"Set Syntax: Makefile"
+			],
+			[
+				"ssdo",
+				"Set Syntax: JavaDoc"
+			],
+			[
+				"Build: i",
+				"Build: Init"
+			],
+			[
+				"Build: ",
+				"Build: Build"
+			],
+			[
+				"Build: pro",
+				"Build: Pack Product"
+			],
+			[
+				"Build: pr",
+				"Build: Pack Product"
+			],
+			[
+				"Build: cre",
+				"Build: Create plist"
+			],
+			[
+				"Build: say",
+				"Build: Say Name of Application"
+			],
+			[
+				"Build: sAY",
+				"Build: Say Name of Application"
+			],
+			[
+				"Build: b",
+				"Build: Build Product Package"
+			],
+			[
+				"Build: sig",
+				"Build: Sign"
+			],
+			[
+				"bi",
+				"Build: Init"
+			],
+			[
+				"sgdb",
+				"Preferences: SublimeGDB Settings – Default"
+			],
+			[
+				"subgdb",
+				"Preferences: SublimeGDB Settings – Default"
+			],
+			[
+				"gdb",
+				"Preferences: SublimeGDB Settings – User"
+			],
+			[
+				"sub",
+				"SublimeGDB: Open Breakpoint View"
+			],
+			[
+				"mark",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"mar",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"ma",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"markdo",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"Latex",
+				"LaTeXTools: Reconfigure and migrate settings"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			]
+		],
+		"width": 610.0
+	},
+	"console":
+	{
+		"height": 576.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/michaelriedel/Developer/pssg"
+	],
+	"file_history":
+	[
+		"/Users/michaelriedel/Developer/pssg/Makefile",
+		"/Users/michaelriedel/Developer/pssg/_layout.html",
+		"/Users/michaelriedel/Documents/Ausbildung/UniBw/Masterarbeit/Documents/CMakeLists.txt",
+		"/Users/michaelriedel/Documents/Ausbildung/UniBw/Masterarbeit/build/Documents/Masterarbeit.html",
+		"/Users/michaelriedel/Documents/Ausbildung/UniBw/Masterarbeit/build/Masterarbeit.html",
+		"/Users/michaelriedel/Documents/Ausbildung/UniBw/Masterarbeit/Documents/pandoc.css",
+		"/Users/michaelriedel/Documents/Ausbildung/UniBw/Masterarbeit/Documents/Anhang.md",
+		"/Users/michaelriedel/Documents/Ausbildung/UniBw/Masterarbeit/Documents/Masterarbeit.md",
+		"/Users/michaelriedel/Developer/Markdown-CMake-Pandoc/.#",
+		"/Users/michaelriedel/Documents/Ausbildung/UniBw/Masterarbeit/Additions/Titelseite.tex",
+		"/Users/michaelriedel/Documents/Ausbildung/UniBw/Masterarbeit/Documents/format.yml",
+		"/Users/michaelriedel/Documents/Ausbildung/UniBw/Masterarbeit/.gitignore",
+		"/Users/michaelriedel/Downloads/CM_test_Pydot_ranksame",
+		"/Users/michaelriedel/.pandoc/templates/t_thesis.tex",
+		"/var/folders/1_/8v2pl25n1cb6j5rqgwklx_2h0000gn/T/com.apple.iChat/Messages/Transfers/usepackage.tex",
+		"/var/folders/1_/8v2pl25n1cb6j5rqgwklx_2h0000gn/T/com.apple.iChat/Messages/Transfers/Bachelorarbeit_Streck.pdf",
+		"/Users/michaelriedel/Documents/Ausbildung/UniBw/Masterarbeit/CMakeLists.txt",
+		"/Users/michaelriedel/Documents/Ausbildung/UniBw/Masterarbeit/Images/CMakeLists.txt",
+		"/Users/michaelriedel/Documents/Ausbildung/UniBw/Masterarbeit/Additions/Abkuerzungen.tex",
+		"/Users/michaelriedel/Developer/mastersthesis/Documents/CMakeLists.txt",
+		"/Users/michaelriedel/Developer/mastersthesis/Research.tex",
+		"/Users/michaelriedel/Downloads/Untitled.tex",
+		"/Users/michaelriedel/Documents/Ausbildung/UniBw/Masterarbeit/laserIMUCalibration/inc/object/dataTypes.h",
+		"/Users/michaelriedel/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/michaelriedel/Documents/Ausbildung/UniBw/Masterarbeit/laserIMUCalibration/README.md",
+		"/Users/michaelriedel/Library/Application Support/Sublime Text 3/Packages/User/SublimeWritingStyle.sublime-settings",
+		"/Users/michaelriedel/Library/Application Support/Sublime Text 3/Packages/SublimeWritingStyle/SublimeWritingStyle.sublime-settings",
+		"/Users/michaelriedel/Documents/Ausbildung/UniBw/Masterarbeit/Diagrams/kalibrierungImSC.dot",
+		"/Users/michaelriedel/Documents/Ausbildung/UniBw/Masterarbeit/Diagrams/CMakeLists.txt",
+		"/Users/michaelriedel/.pandoc/templates/template.latex",
+		"/Users/michaelriedel/Documents/Ausbildung/UniBw/Masterarbeit/Research - Laser-IMU-Calibration.ipynb",
+		"/Users/michaelriedel/Documents/Ausbildung/UniBw/Masterarbeit/Research.tex",
+		"/Users/michaelriedel/Documents/Ausbildung/UniBw/Masterarbeit/Research.",
+		"/Users/michaelriedel/.gitignore_global",
+		"/Users/michaelriedel/Documents/Ausbildung/UniBw/Masterarbeit/laserIMUCalibration/main.cpp",
+		"/Users/michaelriedel/Documents/Ausbildung/UniBw/Masterarbeit/laserIMUCalibration/src/filter/calibrator.cpp",
+		"/Users/michaelriedel/Documents/Ausbildung/UniBw/Masterarbeit/laserIMUCalibration/inc/filter/calibrator.h",
+		"/Users/michaelriedel/Documents/Ausbildung/UniBw/Masterarbeit/build/3d.plot",
+		"/Users/michaelriedel/Developer/raspberry-pi-sd-installer-os-x/install",
+		"/Users/michaelriedel/Developer/rpi-buildroot/Makefile",
+		"/Users/michaelriedel/.ssh/known_hosts",
+		"/Users/michaelriedel/Library/Application Support/Sublime Text 3/Packages/User/Citer.sublime-settings",
+		"/Users/michaelriedel/Developer/test/template.latex",
+		"/Users/michaelriedel/Documents/Ausbildung/UniBw/Masterarbeit/Additions/bibformat.tex",
+		"/Users/michaelriedel/Documents/Ausbildung/UniBw/Masterarbeit/build/Masterarbeit.tex",
+		"/Users/michaelriedel/Developer/test/test.md",
+		"/Users/michaelriedel/Library/Application Support/Sublime Text 3/Packages/User/AcademicMarkdown.sublime-settings",
+		"/Users/michaelriedel/Documents/Ausbildung/UniBw/Masterarbeit/laserIMUCalibration/Documentation/Doxyfile",
+		"/Users/michaelriedel/Documents/Ausbildung/UniBw/Masterarbeit/laserIMUCalibration/src/gui/visualizer.cpp",
+		"/Users/michaelriedel/Documents/Ausbildung/UniBw/Masterarbeit/laserIMUCalibration/inc/gui/visualizer.h",
+		"/Users/michaelriedel/Documents/Ausbildung/UniBw/Masterarbeit/build/plot",
+		"/Users/michaelriedel/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/michaelriedel/Documents/Ausbildung/UniBw/Masterarbeit/laserIMUCalibration/src/CMakeLists.txt",
+		"/Users/michaelriedel/Documents/Ausbildung/UniBw/Masterarbeit/laserIMUCalibration/CMakeLists.txt",
+		"/Users/michaelriedel/Documents/Ausbildung/UniBw/Masterarbeit/laserIMUCalibration/Documentation/CMakeLists.txt",
+		"/Users/michaelriedel/Documents/Ausbildung/UniBw/Masterarbeit/laserIMUCalibration/.gitignore",
+		"/Users/michaelriedel/Documents/Ausbildung/UniBw/Masterarbeit/laserIMUCalibration/Documentation/html/index.html",
+		"/Users/michaelriedel/Documents/Ausbildung/UniBw/Masterarbeit/laserIMUCalibration/src/filter/noiseTool.cpp",
+		"/Users/michaelriedel/Documents/Ausbildung/UniBw/Masterarbeit/laserIMUCalibration/inc/filter/noiseTool.h",
+		"/Users/michaelriedel/Documents/Ausbildung/UniBw/Masterarbeit/build/product/Masterarbeit.tex",
+		"/Users/michaelriedel/Documents/Ausbildung /UniBw/Masterarbeit/CMakeLists.txt",
+		"/Users/michaelriedel/Documents/Ausbildung /UniBw/Masterarbeit/cmake/Pandoc.cmake",
+		"/Users/michaelriedel/Developer/mpllibs/cmake/Documentation.cmake",
+		"/Users/michaelriedel/Documents/Ausbildung /UniBw/Masterarbeit/cmake/Documentation.cmake",
+		"/Users/michaelriedel/Documents/Ausbildung /UniBw/Masterarbeit/Masterarbeit.md",
+		"/Users/michaelriedel/Documents/Ausbildung /UniBw/Masterarbeit/Diagrams/kalibrierungImSCohneKorr.dot",
+		"/Users/michaelriedel/Documents/Ausbildung /UniBw/Masterarbeit/Diagrams/kalibrierungImWC.dot",
+		"/Users/michaelriedel/Documents/Ausbildung /UniBw/Masterarbeit/Diagrams/kalibrierungImSC.dot",
+		"/Users/michaelriedel/Documents/Ausbildung /UniBw/Masterarbeit/format.yml",
+		"/Users/michaelriedel/Documents/Ausbildung /UniBw/Masterarbeit/paper_problemanalyse.md",
+		"/Users/michaelriedel/Documents/Ausbildung /UniBw/Masterarbeit/Diagrams/test.dot",
+		"/Users/michaelriedel/Documents/Ausbildung /UniBw/Masterarbeit/Makefile",
+		"/Users/michaelriedel/Library/Application Support/Sublime Text 3/Packages/User/MultiMarkdown.sublime-settings",
+		"/Users/michaelriedel/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/michaelriedel/Library/Application Support/Sublime Text 3/Packages/User/C++.sublime-settings",
+		"/Users/michaelriedel/Library/Application Support/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/Users/michaelriedel/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/MultiMarkdown.sublime-settings",
+		"/Users/michaelriedel/Documents/Ausbildung /UniBw/Masterarbeit/.build/Masterarbeit.tex",
+		"/Users/michaelriedel/Documents/Ausbildung /UniBw/Masterarbeit/Additions/Input.tex",
+		"/Users/michaelriedel/Documents/Ausbildung /UniBw/Masterarbeit/Diagrams/edgeBetweenEdges.dot",
+		"/Users/michaelriedel/Documents/Ausbildung /UniBw/Masterarbeit/Additions/Abkuerzungen.tex",
+		"/Users/michaelriedel/Documents/Ausbildung /UniBw/Masterarbeit/Code/scan_pcl_visualizer.cpp",
+		"/Users/michaelriedel/Documents/Ausbildung /UniBw/Masterarbeit/Code/pcd_write.cpp",
+		"/Users/michaelriedel/Documents/Ausbildung /UniBw/Masterarbeit/Code/goICP.cpp",
+		"/Users/michaelriedel/.gitconfig",
+		"/Users/michaelriedel/Documents/Ausbildung /UniBw/Masterarbeit/.gitignore",
+		"/Users/michaelriedel/.gitconfig_global",
+		"/Users/michaelriedel/Library/Application Support/Sublime Text 3/Packages/SublimeAStyleFormatter/SublimeAStyleFormatter.sublime-settings",
+		"/Users/michaelriedel/Developer/Go-ICP_V1.3/src/jly_3ddt.cpp",
+		"/Users/michaelriedel/Library/Application Support/Sublime Text 3/Packages/User/CTags.sublime-settings",
+		"/usr/include/c++/4.2.1/bits/stringfwd.h",
+		"/Users/michaelriedel/Developer/Go-ICP_V1.3/src/jly_goicp.h",
+		"/Users/michaelriedel/Developer/Go-ICP_V1.3/src/jly_main.cpp",
+		"/Users/michaelriedel/Developer/Go-ICP_V1.3/src/jly_icp3d.hpp",
+		"/Users/michaelriedel/Developer/Go-ICP_V1.3/CMakeLists.txt",
+		"/Users/michaelriedel/Library/Application Support/Sublime Text 3/Packages/User/SublimeAStyleFormatter.sublime-settings",
+		"/Users/michaelriedel/Dropbox/Studium/Master/Masterarbeit/Code/scan_pcl_visualizer.cpp",
+		"/Users/michaelriedel/Dropbox/Studium/Master/Masterarbeit/Code/icp_with_noise.cpp",
+		"/Users/michaelriedel/Dropbox/Studium/Master/Masterarbeit/Code/pcd_write.cpp",
+		"/Users/michaelriedel/Dropbox/Studium/Master/Masterarbeit/Code/interactive_icp.cpp",
+		"/Users/michaelriedel/Downloads/test.cpp",
+		"/Users/michaelriedel/.bash_profile",
+		"/Users/michaelriedel/Dropbox/Studium/Master/Masterarbeit/Code/statistical_noise_removal.cpp",
+		"/Users/michaelriedel/Dropbox/Studium/Master/Masterarbeit/Code/pcl_icp.cpp",
+		"/Users/michaelriedel/Dropbox/Studium/Master/Masterarbeit/Code/pcl_icp.h",
+		"/Users/michaelriedel/Dropbox/Studium/Master/Masterarbeit/Masterarbeit.md",
+		"/Users/michaelriedel/Library/Application Support/Sublime Text 3/Packages/User/C++11.sublime-settings",
+		"/Users/michaelriedel/Library/Application Support/Sublime Text 3/Packages/User/Markdown Extended.sublime-settings",
+		"/Users/michaelriedel/Library/Application Support/Sublime Text 3/Packages/CTags/CTags.sublime-settings",
+		"/Users/michaelriedel/Dropbox/Studium/Master/Masterarbeit/Additions/Abkuerzungen.tex",
+		"/Users/michaelriedel/Dropbox/Studium/Master/Masterarbeit/Aufgabenstellung.md",
+		"/Users/michaelriedel/Dropbox/Studium/Master/Masterarbeit/Code/pointclouds/scan_1412242514_981709.txt",
+		"/Users/michaelriedel/Developer/Go-ICP_V1.3/doc/Doxyfile",
+		"/Users/michaelriedel/Dropbox/Studium/Master/Masterarbeit/Additions/Titelseite.tex",
+		"/Users/michaelriedel/Dropbox/Studium/Master/Masterarbeit/Code/pointclouds/scan_1412242514_182498.pcd",
+		"/Users/michaelriedel/Dropbox/Studium/Master/Masterarbeit/Code/CMakeLists.txt",
+		"/Users/michaelriedel/Dropbox/Studium/Master/Masterarbeit/Code/pointclouds/scan_1412242514_182498.txt",
+		"/Users/michaelriedel/Dropbox/Studium/Master/Masterarbeit/.build/Masterarbeit.aux",
+		"/Users/michaelriedel/Dropbox/Studium/Master/Masterarbeit/.build/Masterarbeit.tex",
+		"/Users/michaelriedel/Dropbox/Studium/Master/Masterarbeit/Additions/Thanks.tex",
+		"/Users/michaelriedel/Dropbox/Studium/Master/Masterarbeit/Makefile",
+		"/Users/michaelriedel/Dropbox/Studium/Master/Masterarbeit/format.yml",
+		"/usr/local/bin/brew-update.sh",
+		"/Users/michaelriedel/Dropbox/Studium/Master/Masterarbeit/Code/pointclouds/monkey.ply",
+		"/Users/michaelriedel/Dropbox/Studium/Master/Masterarbeit/Code/.gitignore",
+		"/Users/michaelriedel/Developer/mastersthesis/monkey.ply",
+		"/Users/michaelriedel/Dropbox/Studium/Master/Masterarbeit/Additions/Abstract.tex",
+		"/Users/michaelriedel/Dropbox/Studium/Master/Masterarbeit/Thanks.tex"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 107.0,
+		"where_history":
+		[
+			"<current file>",
+			"",
+			"/Users/michaelriedel/Dropbox/Studium/Master/Robotik/include",
+			"<current file>",
+			"/Users/michaelriedel/Dropbox/Studium/Master/Robotik/Source,/Users/michaelriedel/Dropbox/Studium/Master/Robotik/include",
+			"/Users/michaelriedel/Dropbox/Studium/Master/Robotik",
+			"",
+			"messageBox",
+			"easyQDA"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Fusion",
+			" ",
+			"raw.githubusercontent.com",
+			"/masterthesis/master",
+			"Images/",
+			"{width: \"500px\"}",
+			" {width: \"500px\"})",
+			"https://rawgit.com/gismo141/mastersthesis/master/",
+			"/build/Images",
+			"skip",
+			"parski",
+			" ",
+			"Diagrams",
+			" ",
+			"sudo ",
+			" ",
+			" ",
+			"sudo ",
+			"libgcrypt11",
+			"db",
+			"db-util",
+			"libdb",
+			"libdb5.3-dev",
+			"libavahi-client-dev",
+			"avahi-daemon",
+			"avahi",
+			"\n",
+			" (used by netatalk(8))",
+			"Pose",
+			"Laserscanners",
+			"**",
+			"https://rawgit.com/gismo141/mastersthesis/master/build",
+			"pdf",
+			"-Tpdf",
+			"pdf",
+			"-Tpdf",
+			"add_custom_target(kalibrierungImSC ALL\n	COMMAND /usr/local/bin/dot -Tpdf ${CMAKE_CURRENT_SOURCE_DIR}/kalibrierungImSC.dot -o ${CMAKE_CURRENT_BINARY_DIR}/kalibrierungImSC.pdf\n)\n\nadd_custom_target(kalibrierungImSCmitKorr ALL\n	COMMAND /usr/local/bin/dot -Tpdf ${CMAKE_CURRENT_SOURCE_DIR}/kalibrierungImSCmitKorr.dot -o ${CMAKE_CURRENT_BINARY_DIR}/kalibrierungImSCmitKorr.pdf\n)\n\nadd_custom_target(kalibrierungImWC ALL\n	COMMAND /usr/local/bin/dot -Tpdf ${CMAKE_CURRENT_SOURCE_DIR}/kalibrierungImWC.dot -o ${CMAKE_CURRENT_BINARY_DIR}/kalibrierungImWC.pdf\n)\n\nadd_custom_target(kalibrierungImWCmitKorr ALL\n	COMMAND /usr/local/bin/dot -Tpdf ${CMAKE_CURRENT_SOURCE_DIR}/kalibrierungImWCmitKorr.dot -o ${CMAKE_CURRENT_BINARY_DIR}/kalibrierungImWCmitKorr.pdf\n)",
+			"svg",
+			"pdf",
+			"shell",
+			"bash",
+			"LiDAR",
+			"appendices",
+			"../Diagrams/",
+			"plotICPErrors",
+			"milliseconds",
+			"timestamp",
+			"below",
+			"belo",
+			"base",
+			"   | ",
+			"eader-includes",
+			"lof",
+			"lot",
+			"hypersetup",
+			"Abbildung",
+			"lot",
+			"lof",
+			"@fig",
+			"\\ref{",
+			"listofalgorithms",
+			"listoflistings",
+			"\\ifthenelse{\\equal{$list",
+			"\\ifthenelse",
+			"}{}",
+			"table",
+			"tab",
+			"line",
+			"pandoc-cross",
+			"top",
+			"plain",
+			"caption",
+			"float",
+			"tab",
+			"urlstyle",
+			"hypersetup",
+			"ca",
+			"caption",
+			"tab",
+			"tabl",
+			"long",
+			"figures",
+			"Figures",
+			"figures",
+			"longtable",
+			"table",
+			"cap",
+			"table",
+			"float",
+			" ",
+			"y-",
+			"Y-",
+			"X-",
+			"phi",
+			"psi",
+			"Laserscannern",
+			"input",
+			"iterations + milliseconds",
+			"‘",
+			"”",
+			"“",
+			"\n    return (-1);",
+			"argv[1]",
+			"cloud_1",
+			"icp->",
+			"cloud_",
+			"static ",
+			"return dip::filter::calibrator::calibrateLaserPose(&files);",
+			"\n    // gui::visualizer::setupViewerContent(scan1, scan2, transformation, &viewer,\n    //                                     &viewports);\n    // viewer.spinOnce();",
+			"remove",
+			"transformation",
+			"cppcheck",
+			"c_cppcheck",
+			"c_cpplint",
+			"xml",
+			"@CMAKE_CURRENT_SOURCE_DIR@/",
+			"layout",
+			"css",
+			"../Diagrams ",
+			"-o ${CMAKE_CURRENT_SOURCE",
+			"-o ",
+			"-Tpdf ",
+			"\n	WORKING_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}",
+			"Diagrams",
+			"digraph",
+			"-o ",
+			"${CMAKE_CURRENT_SOURCE_DIR}",
+			"	WORKING_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" ",
+			";",
+			"6DoF",
+			"dy",
+			"dx",
+			"@return",
+			"erweiterung-der-robotersteuerung---plan-speedymapping",
+			"erweiterung-der-robotersteuerung---plan-speedyMapping",
+			"addCode",
+			""
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 279,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								247,
+								247
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "plain text",
+							"auto_name": "README.md",
+							"git_savvy.file_path": "/Users/michaelriedel/Developer/pssg/README.md",
+							"git_savvy.repo_path": "/Users/michaelriedel/Developer/pssg",
+							"syntax": "Packages/AcademicMarkdown/AcademicMarkdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.astyle_error_message":
+	{
+		"height": 116.0
+	},
+	"output.exec":
+	{
+		"height": 221.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 150.0
+	},
+	"pinned_build_system": "Packages/User/cmake.sublime-package/CMake.sublime-build",
+	"project": "pssg.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ak",
+				"Additions/Abkuerzungen.tex"
+			],
+			[
+				"tit",
+				"Additions/Titelseite.tex"
+			],
+			[
+				"abk",
+				"Additions/Abkuerzungen.tex"
+			],
+			[
+				"kal",
+				"Diagrams/kalibrierungImWC.dot"
+			],
+			[
+				"ab",
+				"Additions/Abkuerzungen.tex"
+			],
+			[
+				"abkr",
+				"Additions/Abkuerzungen.tex"
+			],
+			[
+				"",
+				"Additions/Titelseite.tex"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 49.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 378.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 293.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
