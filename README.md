@@ -1,3 +1,7 @@
+---
+pagetitle: README
+---
+
 # PSSG - Pandoc Static Site Generator
 
 Use Pandoc with Make to convert your Markdown-files to a static site!
